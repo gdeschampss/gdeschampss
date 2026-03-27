@@ -59,7 +59,7 @@ class EzGolden:
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/gabdeschamps/gabdeschamps/output/snake.svg" alt="Snake animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
  
