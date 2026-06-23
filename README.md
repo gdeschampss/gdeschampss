@@ -14,8 +14,8 @@
 </div>
 
 <div align="center">
-     <img height="135" src="https://github-readme-streak-stats.herokuapp.com/?user=gdeschampss&theme=tokyonight&hide_border=true" />
-  <img height="135" src="https://github-readme-activity-graph.vercel.app/graph?username=gdeschampss&radius=12&theme=tokyo-night&area=true&hide_border=true&custom_title=contribution+graph&title_color=00d9ff" />
+     <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=gdeschampss&theme=tokyonight&hide_border=true" />
+  <img height="120" src="https://github-readme-activity-graph.vercel.app/graph?username=gdeschampss&radius=12&theme=tokyo-night&area=true&hide_border=true&custom_title=contribution+graph&title_color=00d9ff" />
     
 </div>
 
