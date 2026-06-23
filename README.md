@@ -7,35 +7,6 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3c3bzV2OXYza2FleTdxMDJhb3F2Y2c5Y2c5OGN1N2E0Zmd5M285cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ewHxe2RGr6OmQTLNL/giphy.gif"/>
 
-```python
-class EzGolden:
-    role     = "Student entrepreneur in tech"
-    mindset  = "Not just a developer —
-                 someone who turns ideas
-                 into real projects using code
-                 as a tool, not the end goal."
-    focus    = ["LLMs", "Data", "Automation"]
-    location = "Brazil"
-```
-
-<br clear="right"/>
-
----
-
-## `$ ls ./stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=00d9ff)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=00d9ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=00d9ff)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=00d9ff)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=00d9ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=00d9ff)
-![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=for-the-badge&logo=n8n&logoColor=00d9ff)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=for-the-badge&logo=supabase&logoColor=00d9ff)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=00d9ff)
-
 </div>
 
 ---
