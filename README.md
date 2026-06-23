@@ -22,7 +22,7 @@
 
 ---
 
-<div align="center">
+<div align="align">
 
 <img src="https://raw.githubusercontent.com/gabdeschamps/gabdeschamps/output/snake.svg" alt="Snake animation" />
 
