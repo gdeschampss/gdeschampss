@@ -3,10 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome!)](https://git.io/typing-svg)
-</div>
 
-
-</div>
 
 
 <div align="center">
@@ -19,13 +16,9 @@
     
 </div>
 
----
 
 <div align="align">
 
-<img src="https://raw.githubusercontent.com/gabdeschamps/gabdeschamps/output/snake.svg" alt="Snake animation" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff15,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
- 
 
 </div>
