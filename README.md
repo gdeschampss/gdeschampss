@@ -30,7 +30,8 @@
 <br/>
 </div>
 
-<br/>
-Visit my portfolio
-<br/>
+<div>
+  Visit my portfolio
+</div>
+
 
