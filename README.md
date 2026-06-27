@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Welcome!)](https://git.io/typing-svg)
 
 <div align="flex">
- <img width="540" height="150" alt="download" src="https://github.com/user-attachments/assets/d697fc20-57a7-4e3b-9ac4-a1ba4f7a2d43" />
-  <img width="535" height="150" alt="Captura de tela 2026-06-27 015326" src="https://github.com/user-attachments/assets/93c2b370-ae9b-4c88-b834-ab0b82182206" />
+ <img width="200" height="150" alt="download" src="https://github.com/user-attachments/assets/d697fc20-57a7-4e3b-9ac4-a1ba4f7a2d43" />
+  <img width="200" height="150" alt="Captura de tela 2026-06-27 015326" src="https://github.com/user-attachments/assets/93c2b370-ae9b-4c88-b834-ab0b82182206" />
 
 </div>
 
