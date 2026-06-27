@@ -1,23 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CECECE,50:FFFFFF,100:CECECE&height=80&section=header&animation=fadeIn" width="80%"/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Welcome!)](https://git.io/typing-svg)
+```_// gdeschampss_```
 
-<div align="align-items">
- <img width="200" height="150" alt="download" src="https://github.com/user-attachments/assets/d697fc20-57a7-4e3b-9ac4-a1ba4f7a2d43" />
-  <p>Visit the link to my portfolio and discover my projects.</p>
-</div>
+# Gabriel Deschamps
 
-<div align="center">
-     <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=gdeschampss&theme=tokyonight&hide_border=true" />
-  <img height="120" src="https://github-readme-activity-graph.vercel.app/graph?username=gdeschampss&radius=12&theme=tokyo-night&area=true&hide_border=true&custom_title=contribution+graph&title_color=00d9ff" />
-    
-</div>
+`Full-Stack & AI Solutions Developer`
 
+*"Curiosity is the key — it opens many doors."*
 
-<div align="align">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CECECE,50:FFFFFF,100:CECECE&height=80&section=footer&animation=fadeIn" width="80%"/>
+---
+
+<img height="130" src="https://github-readme-stats.vercel.app/api?username=gdeschampss&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=666666&icon_color=555555&hide_title=true" />
+<img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=gdeschampss&theme=dark&hide_border=true&background=000000&ring=888888&fire=ffffff&currStreakLabel=888888&stroke=00000000&dates=444444" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=gdeschampss&radius=0&theme=github-compact&area=true&hide_border=true&bg_color=000000&color=666666&line=666666&point=ffffff&area_color=111111" />
+
+<br/>
+
+---
+
+`React` `TypeScript` `Node.js` `n8n` `OpenAI API` `Anthropic API`  
+`TailwindCSS` `Vercel` `Evolution API` `WhatsApp` `Python` `PostgreSQL`
+
+---
+
+**→ [Portfolio](https://seu-portfolio.vercel.app)**
+
+<br/>
 
 </div>
