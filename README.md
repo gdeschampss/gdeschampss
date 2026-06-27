@@ -27,10 +27,10 @@
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4a845bff-752e-4627-86ba-ae9184692b71" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/78c0b6da-afb6-4c29-961a-dd98064db9ba" />
   <img width="60" height="60" alt="download" src="https://github.com/user-attachments/assets/99074163-8978-47ae-a539-1d8ee7276e1d" />
-
+  **→ [Portfolio](https://seu-portfolio.vercel.app)**
 </div>
 
-**→ [Portfolio](https://seu-portfolio.vercel.app)**
+
 
 <br/>
 
