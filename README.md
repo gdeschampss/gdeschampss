@@ -6,7 +6,9 @@
 
 <div align="flex">
  <img width="200" height="150" alt="download" src="https://github.com/user-attachments/assets/d697fc20-57a7-4e3b-9ac4-a1ba4f7a2d43" />
-  <img width="200" height="150" alt="Captura de tela 2026-06-27 015326" src="https://github.com/user-attachments/assets/93c2b370-ae9b-4c88-b834-ab0b82182206" />
+ <div>
+  <p>Visit the link to my portfolio and discover my projects.</p>
+ </div>
 
 </div>
 
