@@ -26,12 +26,14 @@
     </td>
   </tr>
 </table>
+<div align="center">
+  Visit my portfolio
+</div>
+
 
 <br/>
 </div>
 
-<div align="center">
-  Visit my portfolio
-</div>
+
 
 
