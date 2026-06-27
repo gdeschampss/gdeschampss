@@ -20,7 +20,7 @@
 <p> Connect with me: <p/>
 <div align="center">
   <img width="93" height="85" alt="Captura de tela 2026-06-27 023252" src="https://github.com/user-attachments/assets/a2645021-1b6a-4347-bbd7-66d403c1cc02" />
-  <img width="93" height="85" alt="image" src="https://github.com/user-attachments/assets/86fc8fe9-2bfe-4743-a3be-7af793d448f3" />
+  <img width="93" height="85" alt="image" src="https://github.com/user-attachments/assets/789a7579-916e-4578-93c2-d34c953e0ba6" />
   <img width="93" height="85" alt="image" src="https://github.com/user-attachments/assets/4a845bff-752e-4627-86ba-ae9184692b71" />
   <img width="93" height="85" alt="image" src="https://github.com/user-attachments/assets/78c0b6da-afb6-4c29-961a-dd98064db9ba" />
   <img width="93" height="85" alt="download" src="https://github.com/user-attachments/assets/99074163-8978-47ae-a539-1d8ee7276e1d" />
