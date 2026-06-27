@@ -23,7 +23,7 @@
 <div align="flex">
 
    
-    <p> Connect with me: <p/>
+<p> Connect with me: <p/>
   <img width="60" height="60" alt="Captura de tela 2026-06-27 023252" src="https://github.com/user-attachments/assets/a2645021-1b6a-4347-bbd7-66d403c1cc02" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/789a7579-916e-4578-93c2-d34c953e0ba6" />
   <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/4a845bff-752e-4627-86ba-ae9184692b71" />
