@@ -14,7 +14,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="middle" align="center" width="220">
-      <img width="170" height="168" alt="avatar" src="https://github.com/user-attachments/assets/d4b670d5-200a-4517-a262-8cbc3a2aae2a" />
+     <img width="170" height="168" alt="download (2)" src="https://github.com/user-attachments/assets/04bdaf32-3a5e-4030-8142-057def0cd8c5" />
     </td>
     <td width="40"></td>
     <td valign="middle" align="left">
