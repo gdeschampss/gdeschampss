@@ -25,6 +25,11 @@
 
 ---
 
+<div align="center">
+
+<!-- TERRAIN CANVAS ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%"/>
+
 `React` `TypeScript` `Node.js` `n8n` `OpenAI API` `Anthropic API`  
 `TailwindCSS` `Vercel` `Evolution API` `WhatsApp` `Python` `PostgreSQL`
 
