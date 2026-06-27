@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="48" height="48" />
+ <img width="540" height="540" alt="download" src="https://github.com/user-attachments/assets/d697fc20-57a7-4e3b-9ac4-a1ba4f7a2d43" />
+
 </div>
 
 <div align="center">
