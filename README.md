@@ -21,7 +21,8 @@
       <img width="43" height="43" alt="DEV" src="https://github.com/user-attachments/assets/a2645021-1b6a-4347-bbd7-66d403c1cc02" />
       <img width="43" height="43" alt="6bab3017350ca04c6fa05569672bd31e" src="https://github.com/user-attachments/assets/43e9ab94-7075-4684-b898-171f1bf6b29e" />
       <img width="43" height="43" alt="uma-imagem-quadrada-cinzenta-de-uma-camera_1192032-4587" src="https://github.com/user-attachments/assets/dfc83433-dd79-4f2c-b2c8-d26a7b0db824" />
-      <img width="43" height="43" alt="123739" src="https://github.com/user-attachments/assets/207b5b6b-c701-4929-976a-f6cf9c0a5e61" />
+      <img width="43" height="43" alt="6c93bd2f3dd14afa5dcc65470b5b9918" src="https://github.com/user-attachments/assets/f56661fa-ee16-43cc-befe-5ec7eb74ef94" />
+      <img width="43" height="43" alt="download" src="https://github.com/user-attachments/assets/7fe6248a-573a-47f0-8e27-00875894cd19" />
     </td>
   </tr>
 </table>
