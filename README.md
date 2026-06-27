@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Welcome!)](https://git.io/typing-svg)
 
-<div align="flex">
+<div align="align-items">
  <img width="200" height="150" alt="download" src="https://github.com/user-attachments/assets/d697fc20-57a7-4e3b-9ac4-a1ba4f7a2d43" />
   <p>Visit the link to my portfolio and discover my projects.</p>
 </div>
