@@ -19,10 +19,9 @@
       <p><strong>Connect with me:</strong></p>
       <br/>
       <img width="43" height="43" alt="DEV" src="https://github.com/user-attachments/assets/a2645021-1b6a-4347-bbd7-66d403c1cc02" />
-      <img width="43" height="43" alt="LinkedIn" src="https://github.com/user-attachments/assets/789a7579-916e-4578-93c2-d34c953e0ba6" />
-      <img width="43" height="43" alt="Gmail" src="https://github.com/user-attachments/assets/4a845bff-752e-4627-86ba-ae9184692b71" />
-      <img width="43" height="43" alt="Instagram" src="https://github.com/user-attachments/assets/78c0b6da-afb6-4c29-961a-dd98064db9ba" />
-      <img width="43" height="43" alt="Portfolio" src="https://github.com/user-attachments/assets/99074163-8978-47ae-a539-1d8ee7276e1d" />
+      <img width="43" height="43" alt="91935" src="https://github.com/user-attachments/assets/42bda5fd-4195-4b11-8226-eb6ee293fd61" />
+      <img width="43" height="43" alt="6c93bd2f3dd14afa5dcc65470b5b9918" src="https://github.com/user-attachments/assets/f231cd1b-bab2-4f12-a829-8792c074ef7c" />
+      <img width="43" height="43" alt="123739" src="https://github.com/user-attachments/assets/207b5b6b-c701-4929-976a-f6cf9c0a5e61" />
     </td>
   </tr>
 </table>
