@@ -17,7 +17,8 @@
 <br/>
 <div align="flex">
 
-<img width="140" height="140" alt="download" src="https://github.com/user-attachments/assets/99074163-8978-47ae-a539-1d8ee7276e1d" />
+<img width="1254" height="1254" alt="Design sem nome (3)" src="https://github.com/user-attachments/assets/d4b670d5-200a-4517-a262-8cbc3a2aae2a" />
+
 </div>
 
 <div align="flex">
