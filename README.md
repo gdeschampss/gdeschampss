@@ -1,4 +1,4 @@
-<div align="flex">
+<div align="center">
 
 <br/>
 
