@@ -18,11 +18,21 @@
     <td valign="middle" align="left">
       <p><strong>Connect with me:</strong></p>
       <br/>
-      <img width="43" height="43" alt="DEV" src="https://github.com/user-attachments/assets/a2645021-1b6a-4347-bbd7-66d403c1cc02" />
-      <img width="43" height="43" alt="6bab3017350ca04c6fa05569672bd31e" src="https://github.com/user-attachments/assets/43e9ab94-7075-4684-b898-171f1bf6b29e" />
+      <a href="https://instagram.com/seu_usuario" target="_blank">
+       <img width="43" height="43" alt="DEV" src="https://github.com/user-attachments/assets/a2645021-1b6a-4347-bbd7-66d403c1cc02" />  
+      </a>
+     <a href="https://instagram.com/seu_usuario" target="_blank">
+     <img width="43" height="43" alt="6bab3017350ca04c6fa05569672bd31e" src="https://github.com/user-attachments/assets/43e9ab94-7075-4684-b898-171f1bf6b29e" />
+     </a>
+      <a href="[https://instagram.com/seu_usuario](https://www.instagram.com/gabdeschamps_/)" target="_blank">
       <img width="43" height="43" alt="uma-imagem-quadrada-cinzenta-de-uma-camera_1192032-4587" src="https://github.com/user-attachments/assets/ad8ac386-0305-4c66-9cae-b4eae88e04c2" />
+      </a>  
+      <a href="https://instagram.com/seu_usuario" target="_blank">
       <img width="43" height="43" alt="6c93bd2f3dd14afa5dcc65470b5b9918" src="https://github.com/user-attachments/assets/f56661fa-ee16-43cc-befe-5ec7eb74ef94" />
+      </a>
+      <a>
       <img width="43" height="43" alt="download" src="https://github.com/user-attachments/assets/7fe6248a-573a-47f0-8e27-00875894cd19" />
+      </a>
     </td>
   </tr>
 </table>
