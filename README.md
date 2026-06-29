@@ -24,7 +24,7 @@
      <a href="https://instagram.com/seu_usuario" target="_blank">
      <img width="43" height="43" alt="6bab3017350ca04c6fa05569672bd31e" src="https://github.com/user-attachments/assets/43e9ab94-7075-4684-b898-171f1bf6b29e" />
      </a>
-      <a href="[https://instagram.com/seu_usuario](https://www.instagram.com/gabdeschamps_/)" target="_blank">
+      <a href="https://www.instagram.com/gabdeschamps_/" target="_blank">
       <img width="43" height="43" alt="uma-imagem-quadrada-cinzenta-de-uma-camera_1192032-4587" src="https://github.com/user-attachments/assets/ad8ac386-0305-4c66-9cae-b4eae88e04c2" />
       </a>  
       <a href="https://instagram.com/seu_usuario" target="_blank">
