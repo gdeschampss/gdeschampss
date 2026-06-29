@@ -26,10 +26,7 @@
      </a>
       <a href="https://www.instagram.com/gabdeschamps_/" target="_blank">
       <img width="43" height="43" alt="uma-imagem-quadrada-cinzenta-de-uma-camera_1192032-4587" src="https://github.com/user-attachments/assets/ad8ac386-0305-4c66-9cae-b4eae88e04c2" />
-      </a>  
-      <a href="https://instagram.com/seu_usuario" target="_blank">
-      <img width="43" height="43" alt="6c93bd2f3dd14afa5dcc65470b5b9918" src="https://github.com/user-attachments/assets/f56661fa-ee16-43cc-befe-5ec7eb74ef94" />
-      </a>
+      </a> 
       <a>
       <img width="43" height="43" alt="download" src="https://github.com/user-attachments/assets/7fe6248a-573a-47f0-8e27-00875894cd19" />
       </a>
