@@ -18,10 +18,10 @@
     <td valign="middle" align="left">
       <p><strong>Connect with me:</strong></p>
       <br/>
-      <a href="https://instagram.com/seu_usuario" target="_blank">
+      <a href="https://dev.to/gdeschampss" target="_blank">
        <img width="43" height="43" alt="DEV" src="https://github.com/user-attachments/assets/a2645021-1b6a-4347-bbd7-66d403c1cc02" />  
       </a>
-     <a href="https://instagram.com/seu_usuario" target="_blank">
+     <a href="https://www.linkedin.com/in/gabriel-deschamps-ba4a2b312/" target="_blank">
      <img width="43" height="43" alt="6bab3017350ca04c6fa05569672bd31e" src="https://github.com/user-attachments/assets/43e9ab94-7075-4684-b898-171f1bf6b29e" />
      </a>
       <a href="https://www.instagram.com/gabdeschamps_/" target="_blank">
