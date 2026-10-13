@@ -1,47 +1,61 @@
 <div align="center">
-<br/>
+
+<br>
 
 # Gabriel Deschamps
-`Full-Stack & AI Solutions Developer`
 
-<br/>
+**Full-Stack & AI Solutions Developer**
 
-<img height="130" src="https://github-readme-activity-graph.vercel.app/graph?username=gdeschampss&radius=0&theme=github-compact&area=true&hide_border=true&bg_color=000000&color=666666&line=666666&point=ffffff&area_color=111111" />
-<img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=gdeschampss&theme=dark&hide_border=true&background=000000&ring=888888&fire=ffffff&currStreakLabel=888888&stroke=00000000&dates=444444" />
+<sub>Balneário Camboriú · Brazil</sub>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle" align="center" width="220">
-    <img width="170" height="168" alt="download (1)" src="https://github.com/user-attachments/assets/bd0ec733-ee60-4323-8f82-f13c508981eb" />
-    </td>
-    <td width="40"></td>
-    <td valign="middle" align="left">
-      <p><strong>Connect with me:</strong></p>
-      <br/>
-      <a href="https://dev.to/gdeschampss" target="_blank">
-       <img width="43" height="43" alt="DEV" src="https://github.com/user-attachments/assets/a2645021-1b6a-4347-bbd7-66d403c1cc02" />  
-      </a>
-     <a href="https://www.linkedin.com/in/gabriel-deschamps-ba4a2b312/" target="_blank">
-     <img width="43" height="43" alt="6bab3017350ca04c6fa05569672bd31e" src="https://github.com/user-attachments/assets/43e9ab94-7075-4684-b898-171f1bf6b29e" />
-     </a>
-      <a href="https://www.instagram.com/gabdeschamps_/" target="_blank">
-      <img width="43" height="43" alt="uma-imagem-quadrada-cinzenta-de-uma-camera_1192032-4587" src="https://github.com/user-attachments/assets/ad8ac386-0305-4c66-9cae-b4eae88e04c2" />
-      </a> 
-      <a>
-      <img width="43" height="43" alt="download" src="https://github.com/user-attachments/assets/7fe6248a-573a-47f0-8e27-00875894cd19" />
-      </a>
-    </td>
-  </tr>
-</table>
+<br>
+
+*Curiosity is the key; it opens many doors.*
+
+<br>
+
+</div>
+
+---
+
+<br>
+
+### Currently
+
+Founder of **NeuroFlow**, where I design and ship AI automation for small and mid-sized businesses.
+
+<br>
+
+| | |
+|:--|:--|
+| **Atlas** | WhatsApp AI agent for sales and customer service |
+| **NeuroWeb** | Websites built for speed, clarity and conversion |
+| **Vívido.ia** | AI-generated visual content |
+
+<br>
+
+### Tools I reach for
+
+`TypeScript` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `LLM APIs` &nbsp;·&nbsp; `PostgreSQL`
+
+<br>
+
+### Principles
+
+- Simple systems outlast clever ones.
+- Automate the repetitive, so people can focus on what matters.
+- Design is how it works, not only how it looks.
+
+<br>
+
+---
+
 <div align="center">
-  Visit my portfolio
+
+<br>
+
+[**Portfolio**](https://portfolio-gabriel-d.vercel.app/) &nbsp;&nbsp;·&nbsp;&nbsp; [**LinkedIn**](https://www.linkedin.com/in/gabriel-deschamps-ba4a2b312/) &nbsp;&nbsp;·&nbsp;&nbsp; [**Instagram**](https://instagram.com/gabdeschamps_)
+
+<br>
+
 </div>
-
-https://portfolio-gabriel-d.vercel.app/
-
-<br/>
-</div>
-
-
-
-
