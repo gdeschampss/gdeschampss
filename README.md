@@ -1,5 +1,6 @@
 <div align="center">
 
+# Welcome
 <sub>Brazil</sub>
 
 <a href="https://portfolio-gabriel-d.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-161b22?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"></a>
@@ -19,4 +20,4 @@ Founder of **NeuroFlow**, where I design and ship AI automation for small and mi
 | **NeuroFlow** | WhatsApp AI agents for sales and customer service, and websites |
 | **NeuroTap** | NFC cards for businesses |
 | **Vívido.ia** | AI-generated visual content |
-==
+
